@@ -1,0 +1,9 @@
+Taggerl
+tag()
+evaluate()
+
+SequentialBackoffTagger
+choose_tag()
+
+
+DefaultTagger
